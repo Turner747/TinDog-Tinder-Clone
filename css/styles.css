@@ -200,4 +200,12 @@ p{
     #title{
         text-align: center;
     }
+
+    .big-heading{
+        font-size: 3rem;
+    }
+
+    .testimonial-text{
+        font-size: 2rem;
+    }
 }
